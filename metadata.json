@@ -1,0 +1,8 @@
+{
+  "name": "OmniForge AI - Hugging Face Runner, Web Builder & Roblox Studio Engine",
+  "description": "Run any Hugging Face AI model, dynamically generate websites with a no-code visual editor, and seamlessly deploy 3D assets and Lua scripts directly into Roblox Studio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
